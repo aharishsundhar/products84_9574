@@ -1,0 +1,7 @@
+{
+  "name": "products84",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
